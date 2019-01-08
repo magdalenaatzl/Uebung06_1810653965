@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe3.java" line="31" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d68e116-d33c-4603-a832-8eb07bb64684" name="Default Changelist" comment="" />
+    <list default="true" id="3d68e116-d33c-4603-a832-8eb07bb64684" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4/Aufgabe4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4/Freund.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Uebung06_1810653965/at/ac/fh_kufstein/uebung/Aufgabe2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Uebung06_1810653965/at/ac/fh_kufstein/uebung/Aufgabe2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Uebung06_1810653965/at/ac/fh_kufstein/uebung/Aufgabe3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Uebung06_1810653965/at/ac/fh_kufstein/uebung/Aufgabe3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Uebung06_1810653965/at/ac/fh_kufstein/uebung/Aufgabe4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Uebung06_1810653965/at/ac/fh_kufstein/uebung/Aufgabe4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Uebung06_1810653965/at/ac/fh_kufstein/uebung/Aufgabe4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Uebung06_1810653965/at/ac/fh_kufstein/uebung/GDI/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Uebung06_1810653965/at/ac/fh_kufstein/uebung/GDI/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,33 +29,35 @@
     <session id="-325511099">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="java" value="4360" />
+          <entry key="java" value="5901" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4360" />
+          <entry key="JAVA" value="5901" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="15" />
+          <entry key="java" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="26" />
         </counts>
       </usages-collector>
     </session>
@@ -47,19 +65,81 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/GDI/test.java">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="340">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4/Aufgabe4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4/Freund.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/GDI/test2.java">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe5/Aufgabe5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="221">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe5/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+              <folding>
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#836#837#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="24" column="104" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="104" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,24 +153,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Main.java" />
         <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe1.java" />
-        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe2.java" />
-        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4.java" />
         <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4/Anwendung.java" />
         <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/NumericCheck.java" />
         <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Chris.java" />
-        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4/Aufgabe4.java" />
         <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe5.java" />
         <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe5/Student.java" />
         <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe5/Aufgabe5.java" />
-        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe3.java" />
         <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/test.java" />
-        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/GDI/test.java" />
         <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/GDI/test2.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/GDI/test.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/sdf.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe2.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe3.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Freunde.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Freund.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4.java" />
+        <option value="$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4/Aufgabe4.java" />
       </list>
     </option>
   </component>
@@ -100,11 +186,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2266" />
+    <option name="y" value="26" />
+    <option name="width" value="838" />
+    <option name="height" value="663" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -135,13 +223,6 @@
               <item name="uebung" type="462c0819:PsiDirectoryNode" />
               <item name="Aufgabe5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Uebung06_1810653965" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Uebung06_1810653965" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="uebung" type="462c0819:PsiDirectoryNode" />
-              <item name="GDI" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -153,7 +234,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546725896932" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546983335394" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
@@ -169,13 +250,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test2">
+  <component name="RunManager" selected="Application.Aufgabe5">
     <configuration name="Aufgabe2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="at.ac.fh_kufstein.uebung.Aufgabe2" />
       <module name="Uebung06_1810653965" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="at.ac.fh_kufstein.uebung.GDI.*" />
+          <option name="PATTERN" value="at.ac.fh_kufstein.uebung.Aufgabe4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,7 +269,20 @@
       <module name="Uebung06_1810653965" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="at.ac.fh_kufstein.uebung.Aufgabe5.*" />
+          <option name="PATTERN" value="at.ac.fh_kufstein.uebung.Aufgabe4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.ac.fh_kufstein.uebung.Aufgabe4.Aufgabe4" />
+      <module name="Uebung06_1810653965" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.fh_kufstein.uebung.Aufgabe4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,25 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="at.ac.fh_kufstein.uebung.GDI.test" />
+    <configuration name="sdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.ac.fh_kufstein.uebung.sdf" />
       <module name="Uebung06_1810653965" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="at.ac.fh_kufstein.uebung.GDI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="at.ac.fh_kufstein.uebung.GDI.test2" />
-      <module name="Uebung06_1810653965" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="at.ac.fh_kufstein.uebung.GDI.*" />
+          <option name="PATTERN" value="at.ac.fh_kufstein.uebung.Aufgabe4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,19 +317,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Aufgabe3" />
-      <item itemvalue="Application.Aufgabe5" />
+      <item itemvalue="Application.sdf" />
       <item itemvalue="Application.Aufgabe2" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.test2" />
+      <item itemvalue="Application.Aufgabe3" />
+      <item itemvalue="Application.Aufgabe4" />
+      <item itemvalue="Application.Aufgabe5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test2" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Aufgabe5" />
+        <item itemvalue="Application.Aufgabe4" />
         <item itemvalue="Application.Aufgabe3" />
         <item itemvalue="Application.Aufgabe2" />
-        <item itemvalue="Application.Aufgabe5" />
+        <item itemvalue="Application.sdf" />
       </list>
     </recent_temporary>
   </component>
@@ -265,16 +346,22 @@
       <workItem from="1546691894296" duration="14178000" />
       <workItem from="1546707907908" duration="507000" />
       <workItem from="1546719083127" duration="6623000" />
+      <workItem from="1546780370480" duration="4815000" />
+      <workItem from="1546847645100" duration="2067000" />
+      <workItem from="1546862943031" duration="2292000" />
+      <workItem from="1546883203767" duration="4370000" />
+      <workItem from="1546976502258" duration="6363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21308000" />
+    <option name="totallyTimeSpent" value="41215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14232409" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,16 +370,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2559653" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17028199" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32624114" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32765958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -314,6 +401,90 @@
     <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4/Anwendung.java" />
     <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/NumericCheck.java" />
     <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Chris.java" />
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/GDI/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/GDI/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/sdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <element signature="e#140#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="104" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4/Freund.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4/Aufgabe4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4/Freund.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe5/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -325,36 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="76" selection-start-line="26" selection-start-column="76" selection-end-line="26" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/Aufgabe5/Aufgabe5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -362,20 +503,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/GDI/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/at/ac/fh_kufstein/uebung/GDI/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
